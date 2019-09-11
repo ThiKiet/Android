@@ -9,7 +9,8 @@
         android:layout_height="wrap_content"
         android:text="Hello Class"
         android:textColor="#FF0000"
-        android:textSize="100px">
+        android:textSize="100px"
+        android:id="@+id/hello">
     </TextView>
 </LinearLayout>
 
